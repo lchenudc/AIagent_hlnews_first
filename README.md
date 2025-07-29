@@ -66,7 +66,13 @@ mcp dev client
 ```
 
 ---
+**Step 3-1: Run the client**
 
+```bash
+python3 client5_loop.py
+```
+
+✅ This will start the client with a menu selection through a while loop. It may also auto-launch the server depending on how it’s coded.
 
 
 ### 🛠 Notes
