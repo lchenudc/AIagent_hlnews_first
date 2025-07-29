@@ -67,6 +67,8 @@ mcp dev client
 
 ---
 
+
+
 ### 🛠 Notes
 
 1. **Use virtual environments (recommended):**
